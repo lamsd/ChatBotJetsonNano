@@ -1,0 +1,9 @@
+ultralytics 
+deepface 
+transformers 
+torch 
+torchvision 
+torchaudio 
+whisper 
+faiss-cpu 
+sentence-transformers
